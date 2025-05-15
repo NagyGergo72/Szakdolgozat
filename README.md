@@ -4,9 +4,12 @@
 
 #### Szerkezet:
 
-Adatok mappa: \n
-Adatok Modell mappa: Modellezéshez felhasznált adatokat tartalmazó Excel fájl. \n
+Adatok mappa: <br/>
+Adatok Modell mappa: Modellezéshez felhasznált adatokat tartalmazó Excel fájl. <br/>
 Adatok Vizualizáció mappa: Vizualizációkhoz felhasznált adatokat tartalmazó Excel fájlok.
 
-Elkészített vizualizációk: \n
+Elkészített vizualizációk: <br/>
 Természetes népességváltozás.pbx
+
+Modellezés: <br/>
+Modell_Migráció.py
