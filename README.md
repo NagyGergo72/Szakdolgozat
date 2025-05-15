@@ -9,7 +9,7 @@ Adatok Modell mappa: Modellezéshez felhasznált adatokat tartalmazó Excel fáj
 Adatok Vizualizáció mappa: Vizualizációkhoz felhasznált adatokat tartalmazó Excel fájlok.
 
 Elkészített vizualizációk: <br/>
-Természetes népességváltozás.pbx
+Természetes_népességváltozás.pbix
 
 Modellezés: <br/>
 Modell_Migráció.py
