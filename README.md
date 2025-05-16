@@ -8,8 +8,8 @@ Adatok mappa: <br/>
 Adatok Modell mappa: Modellezéshez felhasznált adatokat tartalmazó Excel fájl. <br/>
 Adatok Vizualizáció mappa: Vizualizációkhoz felhasznált adatokat tartalmazó Excel fájlok.
 
-Elkészített vizualizációk: <br/>
+Feltáró adatelemezés vizualizációk: <br/>
 Természetes_népességváltozás.pbix
 
-Modellezés: <br/>
+Migrációs folyamatok modellezése: <br/>
 Modell_Migráció.py
